@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f817cc-1241-4449-abc0-6584361e3757" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/java/org/example/Client/BankGrpcClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/java/org/example/Client/BankGrpcClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/java/org/example/Client/BankGrpcClient3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/java/org/example/Client/BankGrpcClient4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/java/org/example/Client/BankGrpcClient5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_bank_client/src/main/resources/bank.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_chat_Client_python/ChatgRPCClient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_chat_Client_python/chat.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_chat_Client_python/chat_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_chat_Client_python/chat_pb2_grpc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_game_client_python/GamegRPCClientPyhon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_game_client_python/jeu.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_game_client_python/jeu_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gRPC_game_client_python/jeu_pb2_grpc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/server/ChatgRPCServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ChatgRPCService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gRPC_chat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PFeMv4iPeZOH1S1R6tyqfa3UVQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,9 +36,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/kmhas/Documents/GitHub/gRPC_DitributedSystems/gRPC_chat/src/main/java/org/example"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kmhas\Documents\GitHub\gRPC_DitributedSystems\gRPC_chat\src\main\java\org\example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,0 +1,15 @@
+org\example\stubs\ChatGrpc$ChatImplBase.class
+org\example\stubs\ChatGrpc$ChatStub.class
+org\example\stubs\ChatOuterClass$Message$1.class
+org\example\stubs\ChatGrpc$ChatBaseDescriptorSupplier.class
+org\example\stubs\ChatOuterClass$MessageOrBuilder.class
+org\example\stubs\ChatOuterClass$Message$Builder.class
+org\example\stubs\ChatGrpc$ChatFutureStub.class
+org\example\stubs\ChatOuterClass.class
+org\example\Main.class
+org\example\stubs\ChatGrpc$MethodHandlers.class
+org\example\stubs\ChatGrpc$ChatMethodDescriptorSupplier.class
+org\example\stubs\ChatGrpc.class
+org\example\stubs\ChatGrpc$ChatBlockingStub.class
+org\example\stubs\ChatGrpc$ChatFileDescriptorSupplier.class
+org\example\stubs\ChatOuterClass$Message.class
