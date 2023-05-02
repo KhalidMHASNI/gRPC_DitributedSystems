@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "org.example.stubs";
+
+service Jeu {
+  // The server generates a random number between 1 and 1000
+  rpc Start(Empty) returns (stream Result) {}
+
+  // The client guesses a number and the server responds with a hint
+  rpc Guess(stream GuessRequest) returns (stream Result) {}
+
+  // The server announces the winner and the game is over
+  rpc Stop(Empty) returns (Result) {}
+}
+
+message GuessRequest {
+  int32 guess = 1;
+  string username = 2;
+}
+
+
+message Result {
+  string message = 1;
+  string winner = 2;
+}
+
+message Empty {}
